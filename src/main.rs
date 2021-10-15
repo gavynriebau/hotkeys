@@ -16,6 +16,7 @@ use std::process::{Command, exit};
 /// * https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getmessagew
 /// * https://microsoft.github.io/windows-docs-rs/doc/bindings/Windows/Win32/UI/KeyboardAndMouseInput/fn.RegisterHotKey.html
 /// * https://microsoft.github.io/windows-docs-rs/doc/bindings/Windows/Win32/UI/WindowsAndMessaging/fn.GetMessageW.html
+/// * https://crates.io/crates/windows
 
 fn main() {
     println!("Starting...");
